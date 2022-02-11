@@ -1,0 +1,25 @@
+/**body style**/
+body{ 
+    background-color: rgb(255, 238, 238);
+    text-align: justify;
+}
+h1{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(18, 18, 70);
+}
+
+h2{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgb(5, 5, 68);
+}
+
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}

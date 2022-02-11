@@ -1,0 +1,44 @@
+/**image format index**/
+img {
+    height: 200px;
+    width: 350px;
+    display: block;
+    margin: left;
+}
+/**text format index**/
+#text {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+}
+/**link format index**/
+#text a {
+    color: black;
+}
+/**background color**/
+body {
+    color-scheme: rgb(253, 246, 232);
+}
+/**content formatting for grilled chicken**/
+h1 {
+    color: rgb(75, 16, 31);
+    text-transform: uppercase;
+    font-size: large;
+}
+
+h2{
+    color: rgb(77, 2, 2);
+    font-size: large;
+}
+.p {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.ul {
+    text-align: justify;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
