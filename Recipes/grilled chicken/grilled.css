@@ -1,21 +1,20 @@
 /**image format index**/
 img {
     height: 200px;
-    width: 350px;
+    width: 300px;
     display: block;
-    margin: left;
+    margin-right: auto;
 }
-/**text format index**/
-#text {
-    font-size: 24px;
+/**link format index**/
+a {
+    font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: left;
-}
-/**link format index**/
-#text a {
     color: black;
+    
 }
+
 /**background color**/
 body {
     color-scheme: rgb(253, 246, 232);
